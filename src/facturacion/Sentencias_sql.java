@@ -11,7 +11,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author ANDRES
+ * @author DioneiLucio
  */
 public class Sentencias_sql {
     

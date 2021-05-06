@@ -6,7 +6,7 @@ package facturacion;
 
 /**
  *
- * @author ANDRES
+ * @author DioneiLucio
  */
 public class IVA {
     

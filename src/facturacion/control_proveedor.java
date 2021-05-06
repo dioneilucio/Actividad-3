@@ -5,7 +5,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ANDRES
+ * @author DioneiLucio
  */
 public class control_proveedor extends Persona {
     
