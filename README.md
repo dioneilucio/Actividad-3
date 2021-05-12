@@ -31,7 +31,7 @@ Facturacion.java
 IVA.java
 interfaz_Clientes.java
 interfaz_Proveedor.java
-interfaz_actualizarstock.java
+interfaz_actualizarstock.java 
 interfaz_articulo.java
 interfaz_buscarclientes.java
 interfaz_buscarproveedor.java
